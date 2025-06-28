@@ -1,5 +1,5 @@
-# FloydTriangle
-Java program on Floyd Triangle
+// FloydTriangle
+// Java program on Floyd Triangle
 
 import java.util.Scanner;
 
