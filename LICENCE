@@ -1,0 +1,19 @@
+
+### ✅ `.gitignore`
+
+```gitignore
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE-specific folders and files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log and temporary files
+*.log
+*.tmp
