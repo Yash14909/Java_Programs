@@ -14,7 +14,8 @@ This is a simple Java program that demonstrates the use of:
    javac Data.java
    java Data
 
-📝 Output
+## 📝 Output
+
 Before adding the data to the list 
 Size of the list=0
 List data=[]
