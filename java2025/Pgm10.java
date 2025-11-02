@@ -42,7 +42,7 @@ class Audi extends Car implements SportsCar
  System.out.println("Sports Car");
  }
 }
-public class Program10
+public class Pgm10
 {
  public static void main(String []args)
  {
@@ -59,3 +59,4 @@ public class Program10
  a1.display();
  }
 }
+
