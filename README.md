@@ -5,4 +5,4 @@ This repository contains multiple Java programs demonstrating various core conce
 - Object and ArrayList usage (merged from Obj-List-Example)
 - Exception handling
 - Constructor chaining
-- File operations, etc.
+- File operations, etc...
