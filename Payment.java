@@ -1,4 +1,6 @@
- abstract class User
+// User_Paymt_of_Au-Ag  ==  Non input java code (Abstract class ex)
+
+abstract class User
 
 {
     abstract void pay();
