@@ -1,4 +1,4 @@
-public class Greetings {
+public class Greet {
     // Variable Declaration
     int someVariable;
 
@@ -7,3 +7,4 @@ public class Greetings {
         System.out.println("Hello, World!");
     }
 }
+
