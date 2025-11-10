@@ -28,6 +28,7 @@ for(i=1;i<=10;i++)
 System.out.print(+f3+" ");
     f1=f2;
     f2=f3;
+       }
+    }
+
  }
-}
-}
