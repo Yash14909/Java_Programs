@@ -24,7 +24,7 @@ for(i=1;i<=10;i++)
        f3=f1+f2;
 */
 //f3=i<3?1:f1+f2;  old
-  f3=i<3?( i==1?0:1):(f1+f2);
+  f3=i<3?(i==1?0:1):(f1+f2);
 System.out.print(+f3+" ");
     f1=f2;
     f2=f3;
@@ -32,3 +32,4 @@ System.out.print(+f3+" ");
     }
 
  }
+
